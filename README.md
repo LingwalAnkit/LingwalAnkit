@@ -34,15 +34,12 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
 </p>
 
 ### Database & Cloud
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/>
 </p>
 
 ### DevOps & Tools
@@ -59,12 +56,13 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>
 </p>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lingwalankit&show_icons=true&theme=radical&hide_border=true" alt="Ankit's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lingwalankit&show_icons=true&theme=radical&hide_border=true" alt="Ankit's GitHub Stats"  />
 </div>
 
 <div align="center">
@@ -74,11 +72,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lingwalankit&show_icons=true&theme=radical&layout=compact&hide_border=true" alt="Most Used Languages" />
 </div>
-
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ## 🤝 Connect with Me
 
@@ -95,11 +88,6 @@
   </a> -->
 </div>
 
----
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=lingwalankit&icon=0&color=0" alt="Visit Count" />
-</div>
 
 <div align="center">
   <i>⭐️ From [lingwalankit](https://github.com/lingwalankit)</i>
